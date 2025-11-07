@@ -42,8 +42,6 @@
 </div>
 
 
----
-
 <div align="center">
 
  # About Me  
